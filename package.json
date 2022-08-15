@@ -1,0 +1,22 @@
+{
+  "name": "rafalfigura.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafalfigura/rafalfigura.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafalfigura/rafalfigura.github.io/issues"
+  },
+  "homepage": "https://github.com/rafalfigura/rafalfigura.github.io#readme",
+  "dependencies": {
+    "notion-page-to-html": "^1.2.0"
+  }
+}
